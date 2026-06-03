@@ -1,0 +1,11 @@
+build/
+out/
+.vs/
+.vscode/
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+data/orders.csv
+data/large_orders.csv
